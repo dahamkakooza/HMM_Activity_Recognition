@@ -43,6 +43,5 @@ This project implements a Hidden Markov Model (HMM) for recognizing human activi
 ├── data/ # Raw sensor data
 ├── notebooks/ # Jupyter notebook
 ├── report/ # Project report (PDF)
-├── models/ # Trained model
 ├── results/ # Evaluation results
 └── README.md #
